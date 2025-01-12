@@ -68,6 +68,9 @@ demo()
 - `NotifyFeishu` 继承 `NotifyBase` 并实现一个抽象方法
 - `CookiePollSQLHelper` 这个类主要用来和数据库交互, 其实是可以单独的抽象出来, 可以实现不同平台使用不用的维护方式
 - `AccountBaseClass` 类暴露一个口子出去便于无感更新账号配置
+- `register_login_instance` 注册登录类
+- `register_notify_tools` 注册通知类
+- 其余应用看Demo.py
 - 具体的登录需要自己去实现, 这里只是给一个维护的主逻辑(逻辑已抽象)
 
 ## 5- 效果
