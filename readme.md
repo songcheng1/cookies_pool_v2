@@ -67,8 +67,8 @@ demo()
 - `DemoLogin` 继承 `LoginBase` 并实现两个抽象方法
 - `NotifyFeishu` 继承 `NotifyBase` 并实现一个抽象方法
 - `CookiePollSQLHelper` 这个类主要用来和数据库交互, 其实是可以单独的抽象出来, 可以实现不同平台使用不用的维护方式
-- 具体的登录需要自己去实现, 这里只是给一个维护的主逻辑
 - `AccountBaseClass` 类暴露一个口子出去便于无感更新账号配置
+- 具体的登录需要自己去实现, 这里只是给一个维护的主逻辑(逻辑已抽象)
 
 ## 5- 效果
 ![img_1.png](img_1.png)
