@@ -1,0 +1,11 @@
+
+.idea/
+*/__pycache__/
+__pycache__/
+_logs/
+
+# cookie pool 缓存文件，禁止 同步
+.login_archive
+
+# cookie pool 缓存文件，禁止 同步
+*/login_archive/
