@@ -6,7 +6,6 @@ cookie维护
 
 github: `https://github.com/ylw00/cookies_pool_v2`
 
-vx: y278369368（需要定制私信）
 
 ## 依赖
 ```
@@ -75,7 +74,3 @@ demo()
 
 ## 5- 效果
 ![img_1.png](img_1.png)
-
-## 啰嗦一下
-- 欢迎点赞支持, 后续有能力会继续会开源新的好用的小框架
-- ![img_2.png](img_2.png)
